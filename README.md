@@ -6,4 +6,4 @@ Kushal Dube,
 Harish Carpenter,
 
 
-Link for the painter: https://blessonth.github.io/MLH_LHD/
+Link: https://blessonth.github.io/MLH_LHD/
